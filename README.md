@@ -9,14 +9,14 @@
 ### Requirements:
 
 ▪︎**Libraries used:**
- •Tensorflow 2.0
- •Keras
- •Numpy
- •Matplotlib
+ - Tensorflow 2.0
+ - Keras
+ - Numpy
+ - Matplotlib
 
 ▪︎**Platform :** Google Colab
 
 ▪︎**CNN Architecture:**
- •Custom CNN of 4 layers 
+ - Custom CNN of 4 layers 
 
 Received Accuracy of **89%** and Validation Accuracy of **86%**
